@@ -1,0 +1,33 @@
+body {
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+header {
+}
+input {
+    height: 20px;
+    width: 200px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 5px;
+    font-size: 1rem;
+}
+
+#message {
+    background-color: white;
+    width: 350px;
+    height: 200px;
+    border-radius: 5px;
+}
+#message_form {
+    display: flex;
+    gap: 10px;
+}
+button {
+    border-radius: 15px;
+}
+.msg {
+    margin: 10px;
+}
